@@ -3,29 +3,38 @@
   "deploy_ready": true,
   "client": "Lead Spring CRM",
   "domain": "lead-spring.com",
-  "overall": 95,
-  "overall_method": "weighted_sum: (95*0.30)+(100*0.30)+(75*0.15)+(100*0.25) = 94.75 -> 95",
+  "overall": 68,
+  "overall_method": "DIVE_V12 professional_services: (59.7222*0.30)+(67.50*0.30)+(70.00*0.15)+(77.50*0.25) = 68.0417 -> 68",
+  "evidence_coverage": "97.5%",
   "source_file": "report.md",
   "scores": {
     "D": {
-      "value": 95,
+      "value": 60,
+      "earned": 53.75,
+      "possible": 90.0,
       "weight": 30,
-      "status": "Thriving"
+      "status": "Good Bones"
     },
     "I": {
-      "value": 100,
+      "value": 68,
+      "earned": 67.5,
+      "possible": 100.0,
       "weight": 30,
-      "status": "Thriving"
+      "status": "Good Bones"
     },
     "V": {
-      "value": 75,
+      "value": 70,
+      "earned": 70.0,
+      "possible": 100.0,
       "weight": 15,
       "status": "Good Bones"
     },
     "E": {
-      "value": 100,
+      "value": 78,
+      "earned": 77.5,
+      "possible": 100.0,
       "weight": 25,
-      "status": "Thriving"
+      "status": "Good Bones"
     }
   },
   "errors": []
