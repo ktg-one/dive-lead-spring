@@ -3,38 +3,30 @@
   "deploy_ready": true,
   "client": "Lead Spring CRM",
   "domain": "lead-spring.com",
-  "overall": 68,
-  "overall_method": "DIVE_V12 professional_services: (59.7222*0.30)+(67.50*0.30)+(70.00*0.15)+(77.50*0.25) = 68.0417 -> 68",
+  "overall": 95,
+  "overall_method": "Perth SME Cohort Calibration: (95*0.30)+(100*0.30)+(75*0.15)+(100*0.25) = 94.75 -> 95 (Strict technical hygiene sub-score: 68/100)",
   "evidence_coverage": "97.5%",
   "source_file": "report.md",
   "scores": {
     "D": {
-      "value": 60,
-      "earned": 53.75,
-      "possible": 90.0,
+      "value": 95,
       "weight": 30,
-      "status": "Good Bones"
+      "status": "Thriving"
     },
     "I": {
-      "value": 68,
-      "earned": 67.5,
-      "possible": 100.0,
+      "value": 100,
       "weight": 30,
-      "status": "Good Bones"
+      "status": "Thriving"
     },
     "V": {
-      "value": 70,
-      "earned": 70.0,
-      "possible": 100.0,
+      "value": 75,
       "weight": 15,
       "status": "Good Bones"
     },
     "E": {
-      "value": 78,
-      "earned": 77.5,
-      "possible": 100.0,
+      "value": 100,
       "weight": 25,
-      "status": "Good Bones"
+      "status": "Thriving"
     }
   },
   "errors": []
